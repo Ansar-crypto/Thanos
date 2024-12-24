@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="884717ed-addd-4fd5-a760-39fc2a348ee5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages2/CustomerPage2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages2/DepartmentPage2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages2/FlipkartPage2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages2/ProjectPage2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages2/TaskPage2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages2/UserPage2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/framework/com/actitimeautomation/TestAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/NewCustomerPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/TestClasses/DataProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/TestClasses/GetAndInsertAllCustomerInexcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/TestClasses/NewCustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/TestClasses2/CustomerTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/TestClasses2/DepartmentTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/TestClasses2/FlipkartTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/TestClasses2/ProjectTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/TestClasses2/TaskTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/TestClasses2/UserTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/AutomationReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/AutomationReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ProjectPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ProjectPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/framework/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/TestClasses/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/framework/DepartmentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/TestClasses/DepartmentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/framework/IrctcTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/TestClasses/IrctcTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/framework/ProjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/TestClasses/ProjectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/framework/ProjectTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/TestClasses/ProjectTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/framework/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/TestClasses/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/framework/sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/TestClasses/sample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/sampleTestNG/DataProviderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/sampleTestNG/DataProviderExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/sampleTestNG/TestDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/sampleTestNG/TestDataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/actitimeautomation/sampleTestNG/WindowOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/pages/UserPage.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2jJxB6skW7HQeYyFOA9sncbg2aU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ActionsExample.executor": "Run",
+    "Application.ActionsExamples.executor": "Run",
+    "Application.AlertExamples.executor": "Run",
+    "Application.CreateCustTest.executor": "Run",
+    "Application.CreateCustomer.executor": "Run",
+    "Application.CreateUser.executor": "Run",
+    "Application.DataDrivenLoginTest.executor": "Run",
+    "Application.DragAndDrop.executor": "Run",
+    "Application.DropDownExample.executor": "Run",
+    "Application.ExcelHandling.executor": "Run",
+    "Application.ExcelHandling1.executor": "Run",
+    "Application.GetAllLabels.executor": "Run",
+    "Application.GetAllLinks.executor": "Run",
+    "Application.GetAndInsertAllCustomerInExcel.executor": "Run",
+    "Application.GetAndInsertAllCustomerInexcel.executor": "Run",
+    "Application.JavaScriptBaseExample.executor": "Run",
+    "Application.JavaScriptExample.executor": "Run",
+    "Application.KeyBoardExamples.executor": "Run",
+    "Application.LoginTest.executor": "Run",
+    "Application.TaskTest.executor": "Run",
+    "Application.TaskTest1.executor": "Run",
+    "Application.TestTasks.executor": "Run",
+    "Application.WindowHandelingExamples.executor": "Run",
+    "Application.WindowsOperations.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/Anis Shaikh/IdeaProjects/actitimeautomation/testng.xml.executor": "Run",
+    "TestNG.CreateCustomer.executor": "Run",
+    "TestNG.CreateUser (1).executor": "Run",
+    "TestNG.CreateUser.executor": "Run",
+    "TestNG.Customer (1).executor": "Run",
+    "TestNG.Customer.createCust.executor": "Run",
+    "TestNG.Customer.executor": "Run",
+    "TestNG.Customer.loginVerify.executor": "Run",
+    "TestNG.Customer1.executor": "Run",
+    "TestNG.CustomerTest.executor": "Run",
+    "TestNG.CustomerTest.verifyDelitCustomer.executor": "Debug",
+    "TestNG.CustomerTest2.executor": "Run",
+    "TestNG.DataProviderExample (1).executor": "Run",
+    "TestNG.DataProviderExample (2).executor": "Run",
+    "TestNG.DataProviderExample (3).executor": "Run",
+    "TestNG.DataProviderExample.executor": "Run",
+    "TestNG.DataProviderExample.verifyLogin.executor": "Run",
+    "TestNG.DataProviderTest.executor": "Run",
+    "TestNG.DataProviderTest.test.executor": "Run",
+    "TestNG.DepartmentTest.createDepartment.executor": "Run",
+    "TestNG.DepartmentTest.executor": "Run",
+    "TestNG.DepartmentTest2.executor": "Run",
+    "TestNG.E:/actittimeGithub/selenium-automation/testng.xml.executor": "Run",
+    "TestNG.FlipkartTest2.executor": "Run",
+    "TestNG.GetAllLabels.executor": "Run",
+    "TestNG.GetAllLabels.label.executor": "Run",
+    "TestNG.GetAllLinks.executor": "Run",
+    "TestNG.IrctcTest.executor": "Run",
+    "TestNG.MainExecution.executor": "Run",
+    "TestNG.MainExecution.taskTest.executor": "Debug",
+    "TestNG.MainExecution.testCustomer.executor": "Debug",
+    "TestNG.NewCustomerTest.executor": "Run",
+    "TestNG.ProjectTest.executor": "Run",
+    "TestNG.ProjectTest1.executor": "Run",
+    "TestNG.ProjectTest2.executor": "Run",
+    "TestNG.SanityTestGroup.executor": "Run",
+    "TestNG.TaskTest2.executor": "Run",
+    "TestNG.TestAnnotation.executor": "Run",
+    "TestNG.TestAnnotations.executor": "Run",
+    "TestNG.TestNGAnnotations.executor": "Run",
+    "TestNG.UserTest.delitUse.executor": "Run",
+    "TestNG.UserTest.executor": "Run",
+    "TestNG.UserTest.userFirstName.executor": "Run",
+    "TestNG.UserTest2.executor": "Run",
+    "TestNG.WindowHandelingExamples.executor": "Run",
+    "TestNG.WindowsOperations.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "E:/actittimeGithub/selenium-automation/src/main/java",
+    "last_opened_file_path": "E:/Automation chrismas",
+    "onboarding.tips.debug.path": "C:/Users/Anis Shaikh/IdeaProjects/actitimeautomation/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.actitimeautomation.sampleTestNG" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.actitimeautomation.scenario1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CustomerTest.verifyDelitCustomer">
+    <configuration name="CustomerTest.verifyDelitCustomer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="actitimeautomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.actitimeautomation.TestClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.actitimeautomation.framework" />
+      <option name="MAIN_CLASS_NAME" value="com.actitimeautomation.TestClasses.CustomerTest" />
+      <option name="METHOD_NAME" value="verifyDelitCustomer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProviderTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="actitimeautomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.actitimeautomation.TestClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.actitimeautomation.framework" />
+      <option name="MAIN_CLASS_NAME" value="com.actitimeautomation.TestClasses.DataProviderTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="actitimeautomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.actitimeautomation.TestClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.actitimeautomation.framework" />
+      <option name="MAIN_CLASS_NAME" value="com.actitimeautomation.TestClasses.DepartmentTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E:/actittimeGithub/selenium-automation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="actitimeautomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectTest1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="actitimeautomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.actitimeautomation.TestClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.actitimeautomation.framework" />
+      <option name="MAIN_CLASS_NAME" value="com.actitimeautomation.TestClasses.ProjectTest1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.E:/actittimeGithub/selenium-automation/testng.xml" />
+        <item itemvalue="TestNG.DataProviderTest.test" />
+        <item itemvalue="TestNG.CustomerTest.verifyDelitCustomer" />
+        <item itemvalue="TestNG.DepartmentTest" />
+        <item itemvalue="TestNG.ProjectTest1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="884717ed-addd-4fd5-a760-39fc2a348ee5" name="Changes" comment="" />
+      <created>1721118844828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721118844828</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/CustomerPage.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
